@@ -28,12 +28,16 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 ## Useful links
 
 [![download][wiki-badge]][wiki-link]
+[![download][pm-badge]][pm-link]
 
 [download-link]: https://github.com/andrejsharapov/mine-campfire/raw/main/mine-campfire.zip
 [download-badge]: https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883
 
 [wiki-link]: https://minecraft.fandom.com/
-[wiki-badge]: https://img.shields.io/badge/Minecraft_Wiki-fandom-a0c9fe
+[wiki-badge]: https://img.shields.io/badge/minecraft-wiki-a0c9fe
 
 [repo]: https://github.com/andrejsharapov/mine-campfire/tree/main
 [preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/preview.png?raw=true
+
+[pm-link]: https://www.planetminecraft.com/texture-pack/mine-campfire/
+[pm-badge]: https://img.shields.io/badge/planetminecraft-give_a_diamond-FCEE4B
