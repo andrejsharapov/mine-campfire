@@ -7,13 +7,9 @@ Adds a variety of campfires to the minecraft. <p align="right">
     width="128">
 </p>
 
----
-
 ## Download
 
 [![download][download-badge]][download-link]
-
----
 
 ## Preview
 
