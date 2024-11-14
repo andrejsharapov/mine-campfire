@@ -1,43 +1,47 @@
 # Mine campfire
 
-Adds a variety of campfires to the minecraft. <p align="right">
+MCTPMS - 3d textures for minecraft (Java Edition). Mine campfire adds various types of campfires to Minecraft. This texture pack can be used both on top of classic textures and on top of any other. <p align="right">
   <img
     src="https://github.com/andrejsharapov/mine-campfire/blob/main/pack.png?raw=true"
     alt="mine-campfire"
     width="128">
 </p>
 
-## Download
-
-[![download][download-badge]][download-link]
-
-## Preview
-
-[![mine-campfire][preview-image]][repo]
+> [!TIP]  
+> Join us on [discord](https://discord.gg/En8KcxdDra) to discuss the texture pack, offer ideas, or just talk about your favorite game.
 
 ## How it works?
 
-The appearance of campfire changes depending on the direction of the world you come from. That's all :sweat_smile: :firecracker:
+[![mine-campfire][preview-image]][repo]
+
+The appearance of campfire changes depending on the direction of the world you come from. That's all :firecracker:
+
+[![download][download-badge]][download-link]
+
+## How to update to the latest version?
+
+1. Open `.zip` file with textures;
+2. Find and open `pack.mcmeta` through text editor;
+3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
+
+```js
+{
+  "pack": {
+    "pack_format": 42,
+  }
+}
+```
 
 ## License
 
 This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-campfire/blob/main/LICENSE).
 
----
-
-## Useful links
-
-[![download][wiki-badge]][wiki-link]
-[![download][pm-badge]][pm-link]
-
-[download-link]: https://github.com/andrejsharapov/mine-campfire/raw/main/mine-campfire.zip
-[download-badge]: https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883
-
-[wiki-link]: https://minecraft.fandom.com/
-[wiki-badge]: https://img.shields.io/badge/minecraft-wiki-a0c9fe
+<!--  -->
 
 [repo]: https://github.com/andrejsharapov/mine-campfire/tree/main
 [preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/preview.png?raw=true
 
-[pm-link]: https://www.planetminecraft.com/texture-pack/mine-campfire/
-[pm-badge]: https://img.shields.io/badge/planetminecraft-give_a_diamond-FCEE4B
+<!--  -->
+
+[download-link]: https://www.planetminecraft.com/texture-pack/mine-campfire/
+[download-badge]: https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883
