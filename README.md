@@ -1,6 +1,6 @@
 # Mine campfire
 
-MCTPMS - 3d textures for minecraft (Java Edition). Mine campfire adds various types of campfires to Minecraft. This texture pack can be used both on top of classic textures and on top of any other. <p align="right">
+MCTPMS - realistic texture pack with 3D models for Minecraft JE. Mine campfire adds different types of campfires to the game. This texture pack can be used both on top of classic textures and on top of any other. Suitable for 16x16, 32x32, 64x64, 128x128 and more resolution. <p align="right">
   <img
     src="https://github.com/andrejsharapov/mine-campfire/blob/main/pack.png?raw=true"
     alt="mine-campfire"
@@ -20,7 +20,7 @@ The appearance of campfire changes depending on the direction of the world you c
 
 ## How to update to the latest version?
 
-1. Open `.zip` file with textures;
+1. Unzip `mine-campfire.zip` file with textures;
 2. Find and open `pack.mcmeta` through text editor;
 3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
 
@@ -39,7 +39,7 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 <!--  -->
 
 [repo]: https://github.com/andrejsharapov/mine-campfire/tree/main
-[preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/preview.png?raw=true
+[preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/src/preview.png?raw=true
 
 <!--  -->
 
