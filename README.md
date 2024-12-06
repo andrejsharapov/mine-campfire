@@ -46,7 +46,7 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 <!--  -->
 
 [repo]: https://github.com/andrejsharapov/mine-campfire/tree/main
-[preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/src/preview.png?raw=true
+[preview-image]: https://github.com/andrejsharapov/mine-campfire/blob/main/preview.png?raw=true
 
 <!--  -->
 
