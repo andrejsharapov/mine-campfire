@@ -34,7 +34,7 @@ We try to update the package version in a timely manner, but if you see that the
 ```js
 {
   "pack": {
-    "pack_format": 46,
+    "pack_format": 46, // for m1.21.4
   }
 }
 ```
@@ -50,5 +50,5 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 
 <!--  -->
 
-[download-link]: https://www.planetminecraft.com/texture-pack/mine-campfire/
+[download-link]: https://www.mediafire.com/file/9saax78mxtx09hs/mine-campfire-1.1.0.zip/file
 [download-badge]: https://img.shields.io/badge/download-mctpms--campfire.zip-db8b00
